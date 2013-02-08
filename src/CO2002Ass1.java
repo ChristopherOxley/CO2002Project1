@@ -19,7 +19,5 @@ public class CO2002Ass1 {
         COFrame frame = new COFrame();
         frame.setVisible(true);
         
-        // test comment
-        
     }
 }
