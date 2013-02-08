@@ -16,6 +16,7 @@ public class CO2002Ass1 {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        // Entry point to the Application
         COFrame frame = new COFrame();
         frame.setVisible(true);
         
